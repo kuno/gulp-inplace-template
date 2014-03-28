@@ -1,9 +1,9 @@
 {
-  "name": "gulp-template",
+  "name": "gulp-inplace-template",
   "version": "0.1.1",
   "description": "Compile Lodash templates. Underscore too.",
   "license": "MIT",
-  "repository": "sindresorhus/gulp-template",
+  "repository": "kuno/gulp-inplace-template",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
